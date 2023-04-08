@@ -33,6 +33,14 @@ a{
     background-color:tomato;
     padding: 10px;
     color: white;
+    border: 1px solid transparent;
+    transition: all .3s;
+    margin-top: 15px;
+}
+a:hover{
+    background-color: transparent;
+    border: 1px solid tomato;
+    color: tomato;
 }
 footer{
     text-align: center;
