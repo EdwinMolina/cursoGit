@@ -7,8 +7,16 @@
 body{
     background-color: papayawhip;
 }
+.container{
+    text-align: center;
+    padding: 20px;
+}
+.container h2{
+    font-size: 50px;
+    text-transform: uppercase;
+}
 .card{
-    margin: 80px auto;
+    margin: 10px auto;
     text-align: center;
     width: 400px;
     height: 400px;
