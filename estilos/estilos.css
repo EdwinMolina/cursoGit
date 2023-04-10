@@ -12,10 +12,10 @@ body{
     padding: 20px;
 }
 .container h2{
-    font-size: 30px;
+    font-size: 25px;
     text-transform: uppercase;
     background-color: blueviolet;
-    padding: 20px 0;
+    padding: 10px 0;
     color: aliceblue;
     box-shadow: 0px 8px 7px rgba(0, 0, 0, 0.3);
 }
